@@ -23,7 +23,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend mentor solution link](https://your-solution-url.com)
-- Live Site URL: [Deployed project link](https://your-live-site-url.com)
+- Live Site URL: [Deployed project link](https://order-summary-page-new.netlify.app/)
 
 ### Built with
 
