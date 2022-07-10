@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend mentor solution link](https://your-solution-url.com)
+- Solution URL: [Frontend mentor solution link](https://www.frontendmentor.io/solutions/simple-order-summary-component-using-html-and-css-6DNgXo2XKF)
 - Live Site URL: [Deployed project link](https://order-summary-page-new.netlify.app/)
 
 ### Built with
